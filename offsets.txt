@@ -57,4 +57,4 @@ Offsets::Engine::Controller::RemoteViewPitch: 0x232
 FortniteGame::BuildingWeakSpot::bActive: 0x238
 Engine::World::Levels: 0x138
 
-done grabbing offsets
+Offsets Dumped Lul
