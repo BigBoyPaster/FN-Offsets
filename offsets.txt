@@ -54,3 +54,7 @@ FortniteGame::FortRangedWeaponStats::MinSpeedForSpreadMultiplier: 0x174
 FortniteGame::FortRangedWeaponStats::MaxSpeedForSpreadMultiplier: 0x178
 FortniteGame::BuildingContainer::bAlreadySearched: 0xC41
 Offsets::Engine::Controller::RemoteViewPitch: 0x232
+FortniteGame::BuildingWeakSpot::bActive: 0x238
+Engine::World::Levels: 0x138
+
+done grabbing offsets
